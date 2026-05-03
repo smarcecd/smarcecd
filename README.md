@@ -7,16 +7,16 @@
 
 ## 🔧 Skills
 
-* Azure | Active Directory | Networking
-* PowerShell | GPO Management
-* Networking | Security
+* Azure | Active Directory 
+* Networking | Remoten troubleshooting
+* ITIL | Security
 
 ---
 
 ## 🚀 Projects
 
-* 🔐 Configure an Active Directory Server Lab
-* ⚡ PowerShell Automation Scripts
+* [🔐 Configure an Active Directory Server Lab] (https://github.com/smarcecd/active-directory-az-vm-lab/blob/main/README.md)
+* [⚡ PowerShell Automation Scripts] (https://github.com/smarcecd/active-directory-az-vm-lab/blob/main/AD_POWERSHELL_GUIDE.md)
 
 ---
 
@@ -26,10 +26,6 @@
 * LinkedIn: www.linkedin.com/in/sandy-colmenares-369125b2
 
 ---
-
-## 📊 GitHub Stats
-
-![Sandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=smarcecd\&show_icons=true\&theme=default)
 
 
 <!--
