@@ -15,8 +15,8 @@
 
 ## 🚀 Projects
 
-* [🔐 Configure an Active Directory Server Lab] (https://github.com/smarcecd/active-directory-az-vm-lab/blob/main/README.md)
-* [⚡ PowerShell Automation Scripts] (https://github.com/smarcecd/active-directory-az-vm-lab/blob/main/AD_POWERSHELL_GUIDE.md)
+- 🔐 [Active Directory Server Lab](https://github.com/smarcecd/active-directory-az-vm-lab)
+- ⚡ [PowerShell Automation Guide](https://github.com/smarcecd/active-directory-az-vm-lab/blob/main/AD_POWERSHELL_GUIDE.md)
 
 ---
 
