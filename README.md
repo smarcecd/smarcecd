@@ -1,4 +1,4 @@
-## # Hi, I'm Sandy 👋
+## Hi, I'm Sandy 👋
 
 💻 Network Administrator | Cloud & Security Enthusiast
 📍 Florida, USA
