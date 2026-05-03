@@ -22,7 +22,7 @@
 
 ## 📫 Contact
 
-* Email: sandy.m.colmenares.d [at] gmail.com
+* Email: sandy.m.colmenares.d@gmail.com
 * LinkedIn: www.linkedin.com/in/sandy-colmenares-369125b2
 
 ---
