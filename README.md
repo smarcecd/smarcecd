@@ -16,7 +16,7 @@
 ## 🚀 Projects
 
 - 🔐 [Active Directory Server Lab](https://github.com/smarcecd/active-directory-az-vm-lab)
-- ⚡ [PowerShell Automation Guide](https://github.com/smarcecd/active-directory-az-vm-lab/blob/main/AD_POWERSHELL_GUIDE.md)
+- ⚡ [AD PowerShell Automation Guide](https://github.com/smarcecd/active-directory-az-vm-lab/blob/main/AD_POWERSHELL_GUIDE.md)
 - 📊 [Splunk SIEM & Log Analysis Lab](https://github.com/smarcecd/splunk-siem-log-analysis-lab)
 
 ---
