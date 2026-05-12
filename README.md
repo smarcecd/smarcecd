@@ -55,8 +55,6 @@ Actively developing stronger capabilities in:
 - Security baselines, GPO hardening, and Zero Trust alignment  
 - Cloud networking (VNets, NSGs, routing, DNS, VPN gateways)
 
-My goal is to bridge traditional networking with modern cloud identity and infrastructure engineering.
-
 ---
 
 ## 📫 Contact
