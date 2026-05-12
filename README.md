@@ -1,47 +1,53 @@
 <!-- Header -->
 <h1 align="center">Hi, I'm Sandy Colmenares 👋</h1>
-<h3 align="center">Network Administrator • NOC Analyst • Cloud & Security Enthusiast</h3>
+<h3 align="center">Network Administrator • NOC Engineer • Cloud & Identity Infrastructure</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Florida-blue?style=flat&logo=google-maps" />
   <img src="https://img.shields.io/badge/Experience-10%2B%20Years-success?style=flat" />
-  <img src="https://img.shields.io/badge/Focus-Networking%20%7C%20Cloud%20%7C%20Identity-purple?style=flat" />
-</p>
-
----
-
-## 🔧 Tech Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/SolarWinds-F68B1F?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/ServiceNow-00A859?style=for-the-badge&logo=servicenow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Specialties-Networking%20%7C%20Identity%20%7C%20Cloud-purple?style=flat" />
 </p>
 
 ---
 
 ## 🧩 About Me
 
-Network Administrator and NOC Analyst with extensive experience supporting MSP and enterprise environments, configuring network devices, and managing cloud and identity systems. I’m passionate about building reliable infrastructure, solving complex technical problems, and continuously expanding my knowledge across networking, cloud, and security.
+Infrastructure-focused Network Administrator and NOC Engineer with 10+ years supporting large enterprise and MSP environments. My background spans L2/L3 network operations, identity and access management, unified communications, and cloud-connected infrastructure. I specialize in diagnosing complex routing, VPN, and authentication issues across distributed systems while maintaining strict SLA and security requirements.
+
+I’m currently expanding deeper into hybrid identity, Azure infrastructure, and automation to bridge traditional networking with modern cloud architectures.
 
 ---
 
-## 💪 Core Strengths
+## 🔧 Technical Stack & Tooling
 
-- Tier‑2/3 troubleshooting across **Windows, networking, VPN, identity, and cloud services**
-- Remote CPE configuration, VLANs, static routing, and enterprise network diagnostics
-- Identity & access support using **Active Directory, Intune, GlobalProtect, SafeNet**
-- Monitoring & diagnostics with **Wireshark, SolarWinds, SAM Manager**
-- Strong documentation, bilingual communication, and SLA‑driven operations
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/SolarWinds-F68B1F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ServiceNow-00A859?style=for-the-badge&logo=servicenow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+</p>
 
 ---
 
-## 🚀 Projects
+## 💪 Engineering Strengths
+
+- L2/L3 troubleshooting across **routing, switching, VPN, DNS, DHCP, TCP/IP**
+- Remote CPE configuration, VLAN design, static routing, and enterprise diagnostics  
+- Identity & access engineering using **Active Directory, Entra ID, Intune, MFA platforms**  
+- Unified communications administration (**Cisco CUCM, Webex, Zoom Phone**)  
+- Packet-level analysis with **Wireshark**, SNMP-based monitoring, and fault isolation  
+- Strong documentation, bilingual communication, and SLA-driven operational discipline  
+
+---
+
+## 🚀 Projects & Labs
 
 - 🔐 **Active Directory Server Lab**  
   https://github.com/smarcecd/active-directory-az-vm-lab
@@ -67,9 +73,18 @@ Network Administrator and NOC Analyst with extensive experience supporting MSP a
 
 ---
 
-## 🎯 Career Direction
+## 🎯 Career Direction (Engineer‑Focused)
 
-Pursuing **System Administrator**, **Cloud Infrastructure Support**, or **Network Engineer** roles where I can leverage my background in enterprise network operations, Windows domain administration, hybrid identity, and cloud‑connected infrastructure. I’m focused on advanced troubleshooting across TCP/IP, routing, VPN, and unified communications, while expanding automation skills (Terraform, PowerShell) and strengthening hybrid identity, security baselines, and Azure infrastructure design in production environments.
+Targeting **System Administrator**, **Cloud Infrastructure Support**, or **Network Engineer** roles where I can apply deep experience in enterprise network operations, Windows domain administration, hybrid identity, and cloud-connected infrastructure.  
+
+Actively developing stronger capabilities in:
+
+- Hybrid identity (AD + Entra ID)  
+- Azure infrastructure & automation (Terraform, PowerShell)  
+- Security baselines, GPO hardening, and Zero Trust alignment  
+- Cloud networking (VNets, NSGs, routing, DNS, VPN gateways)
+
+My goal is to bridge traditional networking with modern cloud identity and infrastructure engineering.
 
 ---
 
