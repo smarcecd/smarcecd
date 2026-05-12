@@ -7,6 +7,7 @@ Network Administrator and NOC Analyst with experience supporting MSP environment
 ---
 
 ## 🔧 Core Strengths
+
  - Tier‑2/3 troubleshooting across Windows, networking, VPN, identity, and cloud services
  - Remote CPE configuration, VLANs, static routing, and enterprise network diagnostics
  - Identity & access support using Active Directory, Intune, GlobalProtect, SafeNet
@@ -24,6 +25,7 @@ Network Administrator and NOC Analyst with experience supporting MSP environment
 ---
 
 ## 🎓 Certifications
+
 - Azure Administrator Associate (AZ‑104)
 - Azure Fundamentals (AZ‑900)
 - Azure Data Fundamentals (DP‑900)
@@ -33,6 +35,11 @@ Network Administrator and NOC Analyst with experience supporting MSP environment
 
 ---
 
+## 🎯 Career Direction 
+
+Pursuing System Administrator, Cloud Infrastructure Support, or Network Engineer roles where I can leverage my background in enterprise network operations, Windows domain administration, hybrid identity, and cloud‑connected infrastructure. I’m focused on applying advanced troubleshooting across TCP/IP, routing, VPN, and unified communications, while expanding automation skills (Terraform, PowerShell) and strengthening hybrid identity, security baselines, and Azure infrastructure design in production environments.
+
+---
 
 ## 📫 Contact
 
