@@ -1,15 +1,17 @@
-## Hi, I'm Sandy 👋
+## Hi, I'm Sandy Colmenares | Network Administrator | Cloud & Security Enthusiast
 
-💻 Network Administrator | Cloud & Security Enthusiast  
+Network Administrator and NOC Analyst with experience supporting MSP environments, configuring network devices, and managing cloud and identity systems. I enjoy building reliable infrastructure, solving technical problems, and continuously learning new technologies.
+
 📍 Florida, USA
 
 ---
 
-## 🔧 Skills
-
-* Azure | Active Directory 
-* Networking | Remoten troubleshooting
-* ITIL | Security
+## 🔧 Core Strengths
+ - Tier‑2/3 troubleshooting across Windows, networking, VPN, identity, and cloud services
+ - Remote CPE configuration, VLANs, static routing, and enterprise network diagnostics
+ - Identity & access support using Active Directory, Intune, GlobalProtect, SafeNet
+ - Monitoring & diagnostics with Wireshark, SolarWinds, SAM Manager
+ - Strong documentation, bilingual communication, and SLA‑driven operations
 
 ---
 
@@ -20,6 +22,17 @@
 - 📊 [Splunk SIEM & Log Analysis Lab](https://github.com/smarcecd/splunk-siem-log-analysis-lab)
 
 ---
+
+## 🎓 Certifications
+- Azure Administrator Associate (AZ‑104)
+- Azure Fundamentals (AZ‑900)
+- Azure Data Fundamentals (DP‑900)
+- Microsoft 365 Fundamentals (MS‑900)
+- ITIL 4 Foundation
+- AWS Cloud Practitioner
+
+---
+
 
 ## 📫 Contact
 
