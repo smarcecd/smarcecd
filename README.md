@@ -63,17 +63,8 @@ My goal is to bridge traditional networking with modern cloud identity and infra
 
 ## 📫 Contact
 
-<p align="left">
-  <a href="mailto:sandy.m.colmenares.d@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sandy-colmenares-369125b2">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/smarcecd">
-    <img src="https://img.shields.io/badge/GitHub-smarcecd-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+* Email: sandy.m.colmenares.d@gmail.com
+* LinkedIn: www.linkedin.com/in/sandy-colmenares-369125b2
 
 ---
 
