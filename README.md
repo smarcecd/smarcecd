@@ -35,14 +35,12 @@ Network Administrator and NOC Analyst with experience supporting MSP environment
 
 ## 🎓 Certifications
 
-<p align="left">
-  <img src="https://img.shields.io/badge/AZ--104-Azure%20Administrator-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/DP--900-Data%20Fundamentals-00A4EF?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/MS--900-Microsoft%20365%20Fundamentals-2E77BC?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/ITIL%204-Foundation-5A2A82?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
+- Azure Administrator Associate (AZ‑104)
+- Azure Fundamentals (AZ‑900)
+- Azure Data Fundamentals (DP‑900)
+- Microsoft 365 Fundamentals (MS‑900)
+- ITIL 4 Foundation
+- AWS Cloud Practitioner
 
 ---
 
@@ -63,8 +61,8 @@ My goal is to bridge traditional networking with modern cloud identity and infra
 
 ## 📫 Contact
 
-* Email: sandy.m.colmenares.d@gmail.com
-* LinkedIn: www.linkedin.com/in/sandy-colmenares-369125b2
+- Email: sandy.m.colmenares.d@gmail.com
+- LinkedIn: www.linkedin.com/in/sandy-colmenares-369125b2
 
 ---
 
