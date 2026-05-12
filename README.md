@@ -1,20 +1,10 @@
 <!-- Header -->
-<h1 align="center">Hi, I'm Sandy Colmenares 👋</h1>
-<h3 align="center">Network Administrator • NOC Engineer • Cloud & Identity Infrastructure</h3>
+## Hi, I'm Sandy Colmenares | Network Administrator | Cloud & Security Enthusiast
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Florida-blue?style=flat&logo=google-maps" />
-  <img src="https://img.shields.io/badge/Experience-10%2B%20Years-success?style=flat" />
-  <img src="https://img.shields.io/badge/Specialties-Networking%20%7C%20Identity%20%7C%20Cloud-purple?style=flat" />
-</p>
+Network Administrator and NOC Analyst with experience supporting MSP environments, configuring network devices, and managing cloud and identity systems. I enjoy building reliable infrastructure, solving technical problems, and continuously learning new technologies.
 
----
+📍 Florida, USA
 
-## 🧩 About Me
-
-Infrastructure-focused Network Administrator and NOC Engineer with 10+ years supporting large enterprise and MSP environments. My background spans L2/L3 network operations, identity and access management, unified communications, and cloud-connected infrastructure. I specialize in diagnosing complex routing, VPN, and authentication issues across distributed systems while maintaining strict SLA and security requirements.
-
-I’m currently expanding deeper into hybrid identity, Azure infrastructure, and automation to bridge traditional networking with modern cloud architectures.
 
 ---
 
@@ -36,7 +26,7 @@ I’m currently expanding deeper into hybrid identity, Azure infrastructure, and
 
 ---
 
-## 💪 Engineering Strengths
+## 🔧 Core Strengths
 
 - L2/L3 troubleshooting across **routing, switching, VPN, DNS, DHCP, TCP/IP**
 - Remote CPE configuration, VLAN design, static routing, and enterprise diagnostics  
