@@ -22,8 +22,8 @@ Network Administrator and NOC Analyst with experience supporting MSP environment
 
 ## 🌐 Cloud Projects & Labs
 
-- 📘 **Deploy a Static Website on Azure Storage Account**
-    https://github.com/smarcecd/Static-Website-on-Azure-Storage-Account/blob/main/README.md
+- 📘 **Deploy a Static Website on Azure Storage Account**  
+  https://github.com/smarcecd/Static-Website-on-Azure-Storage-Account/blob/main/README.md
 
 
 ---
@@ -35,6 +35,9 @@ Network Administrator and NOC Analyst with experience supporting MSP environment
 
 - ⚡ **AD PowerShell Automation Guide**  
   https://github.com/smarcecd/active-directory-az-vm-lab/blob/main/AD_POWERSHELL_GUIDE.md
+
+ - 🔍  **Wireshark Fundamentals Lab**  
+   https://github.com/smarcecd/Wireshark-Lab/blob/main/README.md
 
 - 📊 **Splunk SIEM & Log Analysis Lab**  
   https://github.com/smarcecd/splunk-siem-log-analysis-lab
