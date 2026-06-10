@@ -42,6 +42,10 @@ Network Administrator and NOC Analyst with experience supporting MSP environment
 - 📊 **Splunk SIEM & Log Analysis Lab**  
   https://github.com/smarcecd/splunk-siem-log-analysis-lab
 
+- 🛠️ **ServiceNow ITSM Lab** 
+  https://github.com/smarcecd/ServiceNow-ITSM-Lab.git
+
+
 - 🛠️ **ServiceNow ITSM Lab**
   https://github.com/smarcecd/ServiceNow-ITSM-Lab.git
 
