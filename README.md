@@ -45,6 +45,9 @@ Network Administrator and NOC Analyst with experience supporting MSP environment
 - 🛠️ **ServiceNow ITSM Lab**  
   https://github.com/smarcecd/ServiceNow-ITSM-Lab.git
 
+- 💻 **Nessus-Vulnerability-Scanning Lab**
+  https://github.com/smarcecd/Nessus-Vulnerability-Scanning.git
+
 
 ---
 
