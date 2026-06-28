@@ -30,23 +30,17 @@ Network Administrator and NOC Analyst with experience supporting MSP environment
 
 ## 🚀 Sysadmin Projects & Labs
 
-- 🔐 **Active Directory Server Lab**  
-  https://github.com/smarcecd/active-directory-az-vm-lab
+- [🔐 **Active Directory Server Lab**](https://github.com/smarcecd/active-directory-az-vm-lab)
 
-- ⚡ **AD PowerShell Automation Guide**  
-  https://github.com/smarcecd/active-directory-az-vm-lab/blob/main/AD_POWERSHELL_GUIDE.md
+- [⚡ **AD PowerShell Automation Guide**](https://github.com/smarcecd/active-directory-az-vm-lab/blob/main/AD_POWERSHELL_GUIDE.md)
 
- - 🔍  **Wireshark Fundamentals Lab**  
-   https://github.com/smarcecd/Wireshark-Lab/blob/main/README.md
+ - [🔍  **Wireshark Fundamentals Lab**](https://github.com/smarcecd/Wireshark-Lab/blob/main/README.md)
 
-- 📊 **Splunk SIEM & Log Analysis Lab**  
-  https://github.com/smarcecd/splunk-siem-log-analysis-lab
+- [📊 **Splunk SIEM & Log Analysis Lab**](https://github.com/smarcecd/splunk-siem-log-analysis-lab)
 
-- 🛠️ **ServiceNow ITSM Lab**  
-  https://github.com/smarcecd/ServiceNow-ITSM-Lab.git
+- [🛠️ **ServiceNow ITSM Lab**](https://github.com/smarcecd/ServiceNow-ITSM-Lab.git)
 
-- 💻 **Nessus-Vulnerability-Scanning Lab**  
-    https://github.com/smarcecd/Nessus-Vulnerability-Scanning.git
+- [💻 **Nessus-Vulnerability-Scanning Lab**](https://github.com/smarcecd/Nessus-Vulnerability-Scanning.git)
 
 
 ---
