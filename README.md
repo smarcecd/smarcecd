@@ -22,9 +22,9 @@ Network Administrator and NOC Analyst with experience supporting MSP environment
 
 ## 🌐 Cloud Projects & Labs
 
-- 📘 **Deploy a Static Website on Azure Storage Account**  
-  https://github.com/smarcecd/Static-Website-on-Azure-Storage-Account/blob/main/README.md
+- [📘 **Deploy a Static Website on Azure Storage Account**](https://github.com/smarcecd/Static-Website-on-Azure-Storage-Account/blob/main/README.md)  
 
+- [🏛️ **Azure Active Directory Domain Controller — Terraform Deployment Lab**](https://github.com/smarcecd/Terraform-Automation---Azure-Active-Directory-Domain-Controller/blob/main/README.md)
 
 ---
 
