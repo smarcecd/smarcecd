@@ -22,7 +22,9 @@ Network Administrator and NOC Analyst with experience supporting MSP environment
 
 ## 🌐 Cloud Projects & Labs 
   
-- [🗂️ **NTFS File Server Lab (Azure + Terraform)**](https://github.com/smarcecd/ntfs-file-server-lab-azure/blob/main/README.md)
+- [🗂️ **Lab 1 - NTFS File Server Lab (Azure + Terraform)**](https://github.com/smarcecd/ntfs-file-server-lab-azure/blob/main/README.md)
+  
+- 👥 [**Lab 2 – Azure Role-Based Access Control Lab**](https://github.com/smarcecd/terraform-azure-rbac-lab)
 
 - [🏛️ **Azure Active Directory Domain Controller — Terraform Deployment Lab**](https://github.com/smarcecd/Terraform-Automation---Azure-Active-Directory-Domain-Controller/blob/main/README.md)
 
