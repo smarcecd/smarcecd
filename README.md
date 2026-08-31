@@ -3,7 +3,7 @@
 # Hi, I'm Sandy Colmenares 👋
 ### Network Administrator | Cloud & Security Enthusiast
 
-Network Administrator and NOC Analyst with experience supporting MSP environments, configuring network devices, and managing cloud and identity systems. I enjoy building reliable infrastructure, solving technical problems, and continuously learning new technologies.
+Network Administrator and NOC Analyst with 10+ years supporting enterprise and MSP environments, managing network, identity, and unified-communications systems for global, high-volume operations. I build infrastructure that holds up under pressure — consistently sustaining 98–100% SLA compliance while solving problems at the root cause.
 
 📍 Florida, USA
 
@@ -19,12 +19,12 @@ Network Administrator and NOC Analyst with experience supporting MSP environment
 
 | Area | Skills |
 |---|---|
-| **Network Operations** | L2/L3 troubleshooting — routing, switching, VPN, DNS, DHCP, TCP/IP |
-| **Enterprise Diagnostics** | Remote CPE configuration, VLAN design, static routing |
-| **Identity & Access** | Active Directory, Entra ID, Intune, MFA platforms |
-| **Unified Communications** | Cisco CUCM, Webex, Zoom Phone administration |
-| **Monitoring & Analysis** | Packet-level analysis with Wireshark, SNMP-based monitoring, fault isolation |
-| **Operational Discipline** | Strong documentation, bilingual communication, SLA-driven support |
+| **Network & Protocol Troubleshooting** | TCP/IP, DNS, DHCP, OSPF, EIGRP, BGP, SNMP, SIP — VLAN design, static/dynamic routing, WAN and CPE-to-distribution diagnostics across Cisco and Huawei platforms |
+| **Identity & Access Management** | Active Directory, Microsoft Entra ID/Intune, GlobalProtect, SafeNet MobilePASS — access lifecycle management, MFA, and remote connectivity restoration for 1,000+ user environments |
+| **Unified Communications** | Cisco CUCM, Webex Calling, Zoom Phone, Huawei NGN LMT Softswitch/IMS, TelePresence — sustaining 99%+ uptime across enterprise voice platforms |
+| **Monitoring & Diagnostics** | Wireshark, SolarWinds, SAM Manager — packet-level analysis, WAN monitoring, and root-cause documentation that reduced escalation volume by 18% |
+| **Cloud & Automation** | Azure Portal, PowerShell scripting for account lifecycle automation, Azure/AWS-certified infrastructure fundamentals |
+| **Case Management & SLA Delivery** | ServiceNow, Remedy ITSM — consistently maintaining 98–100% SLA compliance across enterprise, MSP, and telecom environments (up to 20,000 accounts) |
 
 ---
 
