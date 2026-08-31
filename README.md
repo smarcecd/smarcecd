@@ -26,7 +26,7 @@ Network Administrator and NOC Analyst with experience supporting MSP environment
   
 - 👥 [**Lab 2 – Azure Role-Based Access Control Lab**](https://github.com/smarcecd/terraform-azure-rbac-lab)
 
-- [🏛️ **Azure Active Directory Domain Controller — Terraform Deployment Lab**](https://github.com/smarcecd/Terraform-Automation---Azure-Active-Directory-Domain-Controller/blob/main/README.md)
+- [🔄 **Azure Update Manager Lab — Terraform + PowerShell + Azure Policy**](https://github.com/smarcecd/azure-update-manager-lab)
 
 - [📘 **Deploy a Static Website on Azure Storage Account**](https://github.com/smarcecd/Static-Website-on-Azure-Storage-Account/blob/main/README.md) 
 
@@ -37,6 +37,8 @@ Network Administrator and NOC Analyst with experience supporting MSP environment
 - [🔐 **Active Directory Server Lab**](https://github.com/smarcecd/active-directory-az-vm-lab)
 
 - [⚡ **AD PowerShell Automation Guide**](https://github.com/smarcecd/active-directory-az-vm-lab/blob/main/AD_POWERSHELL_GUIDE.md)
+  
+- [🏛️ **Azure Active Directory Domain Controller — Terraform Deployment Lab**](https://github.com/smarcecd/Terraform-Automation---Azure-Active-Directory-Domain-Controller/blob/main/README.md)
 
  - [🔍  **Wireshark Fundamentals Lab**](https://github.com/smarcecd/Wireshark-Lab/blob/main/README.md)
 
