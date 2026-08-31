@@ -9,7 +9,6 @@ Network Administrator and NOC Analyst with 10+ years supporting enterprise and M
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandy-colmenares-369125b2)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?logo=gmail&logoColor=white)](mailto:sandy.m.colmenares.d@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=smarcecd&color=blue&style=flat)
 
 </div>
 
