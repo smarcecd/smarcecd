@@ -66,10 +66,10 @@ Network Administrator and NOC Analyst with 10+ years supporting enterprise and M
 
 ## 🎯 Career Direction
 
-Targeting **System Administrator**, **Cloud Infrastructure Support**, or **Network Engineer** roles where I can apply deep experience in enterprise network operations, Windows domain administration, hybrid identity, and cloud-connected infrastructure.
+Targeting **Technical Support**, **Cloud Infrastructure Support**, **System Administrator**, or **Network Engineer** roles that draw on 10+ years of enterprise and MSP experience — network operations, Windows domain administration, hybrid identity, and cloud-connected infrastructure.
 
-Actively developing stronger capabilities in:
-- Hybrid identity (AD + Entra ID)
+Actively building deeper expertise in:
+- Hybrid identity (Active Directory + Entra ID)
 - Azure infrastructure & automation (Terraform, PowerShell)
 - Security baselines, GPO hardening, and Zero Trust alignment
 - Cloud networking (VNets, NSGs, routing, DNS, VPN gateways)
