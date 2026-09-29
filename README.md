@@ -56,11 +56,15 @@ Network Administrator and NOC Analyst with 10+ years supporting enterprise and M
 ## 🎓 Certifications
 
 ![AZ-104](https://img.shields.io/badge/Azure-Administrator%20Associate%20(AZ--104)-0078D4?logo=microsoftazure&logoColor=white)
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-EE4C2C?logo=comptia&logoColor=white)
+![ITIL4](https://img.shields.io/badge/ITIL-4%20Foundation-5C2D91)
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?logo=amazonaws&logoColor=white)
 ![AZ-900](https://img.shields.io/badge/Azure-Fundamentals%20(AZ--900)-0078D4?logo=microsoftazure&logoColor=white)
 ![DP-900](https://img.shields.io/badge/Azure-Data%20Fundamentals%20(DP--900)-0078D4?logo=microsoftazure&logoColor=white)
 ![MS-900](https://img.shields.io/badge/Microsoft%20365-Fundamentals%20(MS--900)-0078D4?logo=microsoft&logoColor=white)
-![ITIL4](https://img.shields.io/badge/ITIL-4%20Foundation-5C2D91)
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?logo=amazonaws&logoColor=white)
+
+
+
 
 ---
 
