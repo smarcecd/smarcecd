@@ -31,7 +31,7 @@ Network Administrator and NOC Analyst with 10+ years supporting enterprise and M
 
 | Project | Stack | What It Demonstrates |
 |---|---|---|
-| [💰 **Azure Cost Visibility Dashboard**](#) | Terraform · Cost Management · Logic Apps | Budget alerting pipeline, cost dashboarding |
+| [💰 **Azure Cost Visibility Dashboard**](https://github.com/smarcecd/azure-cost-visibility-dashboard) | Terraform · Cost Management · Logic Apps | Budget alerting pipeline, cost dashboarding |
 | [🔄 **Azure Update Manager Lab**](https://github.com/smarcecd/azure-update-manager-lab) | Terraform · PowerShell · Azure Policy | Patch compliance automation, policy-driven VM enrollment |
 | [🗂️ **NTFS File Server Lab**](https://github.com/smarcecd/ntfs-file-server-lab-azure) | Terraform · Active Directory · NTFS | AD DS deployment, group-based NTFS permissions, IaC automation |
 | [👥 **Azure RBAC Lab**](https://github.com/smarcecd/terraform-azure-rbac-lab) | Terraform · Azure RBAC | Least-privilege access control, persona-based role scoping |
